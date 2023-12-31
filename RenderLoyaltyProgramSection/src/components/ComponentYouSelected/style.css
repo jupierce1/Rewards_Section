@@ -1,0 +1,12 @@
+.rewards-program-container {
+  flex: 0 0 auto;
+  background: url("/assets/div_84_777__73q55b_7e7c6c.jpeg")
+    no-repeat 50% / cover;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  max-width: initial;
+  height: 500px;
+  padding-left: 698px;
+}
